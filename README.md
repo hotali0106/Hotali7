@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://bo.factorial.io/sites/default/files/styles/teaser_card__small__1x/public/2020-03/frontend%20love.jpg?h=10d202d3&itok=_bhvxDkB">
+  <img width="460" height="300" src="https://miro.medium.com/proxy/0*9N9J9YiGJrISLIBP.png">
 </p>
 <!--
 **HotAli7/Hotali7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
