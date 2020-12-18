@@ -1,4 +1,4 @@
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40monarchwadia%2Fheres-how-to-quickly-try-angular-2-react-and-vue-js-in-under-an-hour-3169c1736caf&psig=AOvVaw3Lao2PKT62t9CXt8PT2613&ust=1608419061778000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCO0KXd2O0CFQAAAAAdAAAAABAF)
+![alt text](https://miro.medium.com/proxy/0*9N9J9YiGJrISLIBP.png)
 <!--
 **HotAli7/Hotali7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
