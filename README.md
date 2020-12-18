@@ -1,4 +1,6 @@
-<center>![alt text](https://miro.medium.com/proxy/0*9N9J9YiGJrISLIBP.png)</center>
+<p align="center">
+  <img width="460" height="300" src="https://miro.medium.com/proxy/0*9N9J9YiGJrISLIBP.png">
+</p>
 <!--
 **HotAli7/Hotali7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
