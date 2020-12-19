@@ -42,4 +42,4 @@
 </ul>
 
 <p>Contact Information</p>
-<mail>hotali0106@gmail.com</mail>
+<a href="mailto:hotali0106@gmail.com" alt="hotali0106@gmail.com">mail</a>
