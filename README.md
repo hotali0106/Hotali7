@@ -24,7 +24,18 @@
     <a href="https://www.w3schools.com/css/" alt="Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.">CSS</a>, 
     <a href="https://getbootstrap.com/" alt="Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development.">Bootstrap</a>, 
     <a href="https://www.ionos.com/digitalguide/websites/web-development/sass/" alt="SASS: next-level CSS?">SCSS/SASS/LESS</a>,
-  <li>👍 Built 190+ components in ReactJS, VueJS, AngularJS</li>
-  <li>🥊 Built 20+ WordPress Themes and 50+ WordPress Plugin</li>
-  <li>🛒 Created user-centric e-commerce sits for small business owners using various web technologies including Shopify and WordPress</li>
+  <li>👍 Built 190+ components in     
+    <a href="https://reactjs.org/" alt="React is an open-source, front end, JavaScript library for building user interfaces or UI components.">ReactJS</a>, 
+    <a href="https://vuejs.org/" alt="Vue.js is an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications.">VueJS</a>, 
+    <a href="https://angular.io/" alt="Angular is a TypeScript-based open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations. ">Angular</a>
+  <li>🥊 Built 30+ 
+    <a href="https://wordpress.org/themes/" />WordPress</a> 
+    Themes and 50+ 
+    <a href="https://wordpress.org/plugins/" />WordPress</a> 
+    Plugin</li>
+  <li>🛒 Created user-centric e-commerce sits for small business owners using various web technologies including 
+    <a href="https://www.shopify.com/">Shopify</a> 
+  and 
+    <a href="https://wordpress.org/">WordPress</a>
+  </li>
 </ul>
