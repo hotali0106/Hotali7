@@ -34,8 +34,9 @@
     <a href="https://wordpress.org/plugins/" />WordPress</a> 
     Plugin</li>
   <li>🛒 Created user-centric e-commerce sits for small business owners using various web technologies including 
-    <a href="https://www.shopify.com/">Shopify</a> 
-  and 
+    <a href="https://www.shopify.com/">Shopify</a>,  
     <a href="https://wordpress.org/">WordPress</a>
+  and 
+    <a href="https://www.opencart.com/">OpenCart</a>
   </li>
 </ul>
