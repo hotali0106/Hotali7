@@ -40,3 +40,6 @@
     <a href="https://www.opencart.com/">OpenCart</a>
   </li>
 </ul>
+
+<p>Contact Information</p>
+<mail>hotali0106@gmail.com</mail>
