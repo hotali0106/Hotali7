@@ -3,7 +3,7 @@
 </p>
 
 <h3>Senior FrontEnd Developer</h3>
-<p>Respected Front-End Web Developer with 7-plus years of experience in collaborating with creative and development teams on the execution of ideas and projects.</p>
+<p>❤Respected Front-End Web Developer❤ with 7-plus years of experience in collaborating with creative and development teams on the execution of ideas and projects.</p>
 
 <p>Key skills include:</p>
 <ul>
