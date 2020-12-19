@@ -41,7 +41,7 @@
   </li>
 </ul>
 
-<p>Contact Information : 
+<p>Contact Me : 
   <a href="mailto:hotali0106@gmail.com?Subject=Hello hotali7" alt="hotali0106@gmail.com">eMail</a>, 
   <a href="https://join.skype.com/invite/hd4GUxqgM3TJ" alt="live:danvaplay">Skype</a>
 </p>
