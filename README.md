@@ -42,4 +42,7 @@
 </ul>
 
 <p>Contact Information</p>
-<a href="mailto:hotali0106@gmail.com" alt="hotali0106@gmail.com">mail</a>
+<p style="padding-left: 5rem">
+  <a href="mailto:hotali0106@gmail.com?Subject=Hello hotali7" alt="hotali0106@gmail.com">eMail</a>
+  <a href="https://join.skype.com/invite/hd4GUxqgM3TJ" alt="live:danvaplay">Skype</a>
+</p>
