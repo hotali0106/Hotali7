@@ -17,8 +17,14 @@
 
 <p>Please consider following highlights</p>
 <ul>
-  <li>Developed front-end for 180+ webpages using JQuery, Javascript, HTML5, and CSS/Bootstrap, SCSS/SASS/LESS</li>
-  <li>Built 190+ components in ReactJS, VueJS, AngularJS</li>
-  <li>Built 20+ WordPress Themes and 50+ WordPress Plugin</li>
-  <li>Created user-centric e-commerce sits for small business owners using various web technologies including Shopify and WordPress</li>
+  <li>🥇 Developed front-end for 180+ webpages using 
+    <a href="http://jquery.com/" alt="jQuery is a fast, small, and feature-rich JavaScript library.">JQuery</a>, 
+    <a href="https://www.javascript.com/" alt="25 years of JavaScript">Javascript</a>, 
+    <a href="https://html.com/" alt="Hypertext Markup Language is the standard markup language for documents designed to be displayed in a web browser.">HTML</a>, 
+    <a href="https://www.w3schools.com/css/" alt="Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.">CSS</a>, 
+    <a href="https://getbootstrap.com/" alt="Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development.">Bootstrap</a>, 
+    <a href="https://www.ionos.com/digitalguide/websites/web-development/sass/" alt="SASS: next-level CSS?">SCSS/SASS/LESS</a>,
+  <li>👍 Built 190+ components in ReactJS, VueJS, AngularJS</li>
+  <li>🥊 Built 20+ WordPress Themes and 50+ WordPress Plugin</li>
+  <li>🛒 Created user-centric e-commerce sits for small business owners using various web technologies including Shopify and WordPress</li>
 </ul>
