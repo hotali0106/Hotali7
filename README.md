@@ -43,5 +43,5 @@
 
 <p>Contact Me : 
   <a href="mailto:hotali0106@gmail.com?Subject=Hello hotali7" alt="hotali0106@gmail.com">eMail - hotali0106@gmail.com</a>, 
-  <a href="https://join.skype.com/invite/hd4GUxqgM3TJ" alt="live:danvaplay" style="margin-left: 20px">Skype - live:danvaplay</a>
+  <a href="https://join.skype.com/invite/hd4GUxqgM3TJ" alt="live:danvaplay" style="margin-left: 50px; color: red">Skype - live:danvaplay</a>
 </p>
