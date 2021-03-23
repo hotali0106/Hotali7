@@ -27,8 +27,8 @@
   <li>👍 Built 190+ components in     
     <a href="https://reactjs.org/" alt="React is an open-source, front end, JavaScript library for building user interfaces or UI components.">ReactJS</a>, 
     <a href="https://vuejs.org/" alt="Vue.js is an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications.">VueJS</a>, 
-    <a href="https://angular.io/" alt="Angular is a TypeScript-based open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations. ">Angular</a>
-    <a href="https://nodejs.org/en/" alt="Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.">Node</a>
+    <a href="https://angular.io/" alt="Angular is a TypeScript-based open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations. ">Angular</a>,
+    <a href="https://nodejs.org/en/" alt="Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.">Node</a>,
     <a href="https://expressjs.com/" alt="Express - Fast, unopinionated, minimalist web framework for Node.js">Express</a>
   <li>🥊 Built 30+ 
     <a href="https://wordpress.org/themes/" />WordPress</a> 
