@@ -41,7 +41,7 @@
   and 
     <a href="https://www.opencart.com/">OpenCart</a>
   </li>
-  <li>🛒 Created several Smart Contracts, ERC-20, ERC-721, ERC-1150 tokens and Dapps using Blockchain technology including
+  <li>💰 Created several Smart Contracts, ERC-20, ERC-721, ERC-1150 tokens and Dapps using Blockchain technology including
     <a href="https://docs.soliditylang.org/en/v0.4.21/">Solidity</a>,  
     <a href="https://ethereum.org/">Ethereum</a>
   and 
