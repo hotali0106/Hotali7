@@ -2,8 +2,8 @@
   <img width="460" height="300" src="https://miro.medium.com/proxy/0*9N9J9YiGJrISLIBP.png">
 </p>
 
-<h3>Senior FrontEnd Developer</h3>
-<p>❤Lovely Front-End Web Developer❤ with 7-plus years of experience in collaborating with creative and development teams on the execution of ideas and projects.</p>
+<h3>Senior Computer Engineer</h3>
+<p>❤Lovely  Computer Engineer and Developer❤ with 7-plus years of experience in collaborating with creative and development teams on the execution of ideas and projects.</p>
 
 <p>Key skills include:</p>
 <ul>
@@ -40,6 +40,12 @@
     <a href="https://wordpress.org/">WordPress</a>
   and 
     <a href="https://www.opencart.com/">OpenCart</a>
+  </li>
+  <li>🛒 Created several Smart Contracts, ERC-20, ERC-721, ERC-1150 tokens and Dapps using Blockchain technology including
+    <a href="https://docs.soliditylang.org/en/v0.4.21/">Solidity</a>,  
+    <a href="https://ethereum.org/">Ethereum</a>
+  and 
+    <a href="https://web3js.readthedocs.io/en/v1.3.4/">Web3</a>
   </li>
 </ul>
 
