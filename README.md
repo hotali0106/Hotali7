@@ -52,4 +52,5 @@
 <p>Contact Me : 
   <a href="mailto:hotali0106@gmail.com?Subject=Hello hotali7" alt="hotali0106@gmail.com">eMail - hotali0106@gmail.com</a>, 
   <a href="https://join.skype.com/ye5J8H2ggyyO" alt="live:danvaplay" style="margin-left: 50px; color: red">Skype - live:danvaplay</a>
+  <a href="#" alt="darlingwendy7" style="margin-left: 50px; color: red">Telegram - darlingwendy7</a>
 </p>
