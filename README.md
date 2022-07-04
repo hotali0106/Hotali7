@@ -3,7 +3,7 @@
 </p>
 
 <h3>Senior Computer Engineer</h3>
-<p>❤Lovely  Computer Engineer and Developer❤ with 7-plus years of experience in collaborating with creative and development teams on the execution of ideas and projects.</p>
+<p>❤Lovely  Computer Engineer and Developer❤ with 9-plus years of experience in collaborating with creative and development teams on the execution of ideas and projects.</p>
 
 <p>Key skills include:</p>
 <ul>
